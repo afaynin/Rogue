@@ -20,6 +20,7 @@ public class Main {
 		
 		gamePanel.startGameThread();
 		//second commit test for github
+		//third commit test for github (feel free to delete this)
 	}
 
 }
